@@ -1,0 +1,280 @@
+/* font-family: 'Playfair Display', serif; */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header part start here  */
+header{
+    overflow: hidden;
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+
+}
+.logo{
+    width: 20%;
+    float: left;
+
+}
+nav{
+    width: 40%;
+    float: right;
+
+}
+nav ul{
+    list-style: none;
+
+}
+nav ul li{
+    float: left;
+    margin-left: 55px;
+    color: #626262;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-family: 'Playfair Display', serif;
+
+}
+/* header part end here  */
+.Banner{
+    width: 90%;
+    margin: auto;
+}
+.Banner img{
+    width: 100%;
+}
+.photodiary{
+    width: 80%;
+    margin: auto;
+    padding: 50px 0px;
+}
+.photodiary h1{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: #626262;
+    margin-bottom: 30px;  
+    font-family: 'Playfair Display', serif;
+}
+.photodiary h6{
+    color: #b4ad9e;
+    font-size: 14px;
+    text-transform: uppercase;
+    margin-bottom: 20px; 
+    font-family: 'Playfair Display', serif;   
+}
+.photodiary p{
+    color: #626262;
+    font-size: 14px;
+    margin: bottom 20px;
+    margin-bottom: 20px;
+    font-family: 'Playfair Display', serif; 
+}
+
+
+.lifestyle{
+    width: 80%;
+    margin: auto;
+}
+.lifestylecontent{
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+.lifestyle_one img, .lifestyle_two img{
+    width: 100%;
+
+}
+.lifestyle_one h6, .lifestyle_two h6{
+font-size: 14px;
+text-transform: uppercase;
+color: #b4ad9e;
+margin: 15px 0;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_one h1,.lifestyle_two h1{
+font-size: 30px;
+color: #626262;
+margin-bottom: 15px;
+text-transform: capitalize;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_one p, .lifestyle_two p{
+font-size: 14px;
+color: #626262;
+line-height: 1.5;
+letter-spacing: 1px;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_one{
+    width: 45%;
+    float: left;
+}
+.lifestyle_two{
+    width: 45%;
+    float: right;    
+}
+.newsletter{
+    background-color: #f0f0f0;
+    padding: 50px 0;
+
+}
+.news{
+    width: 30%;
+    margin: auto;
+    position: relative;
+
+}
+.news h1{
+    font-size: 30px;
+    text-transform: capitalize;
+    color: #626262;
+    padding-bottom: 70px;
+    font-family: 'Playfair Display', serif;
+
+}
+.news input{
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #000;
+    width: 100%;
+    outline: none;
+}
+.news input::placeholder{
+    font-size: 14px;
+    color: #626262;
+    text-transform: capitalize;
+    font-family: 'Playfair Display', serif;
+
+}
+.icon{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.lifestyle-2{
+    width: 95%;
+    margin: auto;
+
+}
+.lifestyle-content{
+    overflow: hidden;
+    padding: 100px;
+
+}
+.lifestyle_five{
+    width: 45%;
+    float: left;
+}
+.lifestyle_six{
+    width: 45%;
+    float: right;    
+}
+.lifestyle_five img, .lifestyle_six img{
+    width: 100%;
+
+}
+.lifestyle_five h6, .lifestyle_six h6{
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+color: #b4ad9e;
+
+margin: 15px 0;
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_five h1, .lifestyle_six h1{
+
+font-size: 30px;
+
+color: #626262;
+
+margin-bottom: 15px;
+
+text-transform: capitalize;
+
+font-family: 'Playfair Display', serif;
+}
+.lifestyle_five p, .lifestyle_six p{
+font-size: 14px;
+color: #626262;
+line-height: 1.5;
+letter-spacing: 1px;
+font-family: 'Playfair Display', serif;
+}
+
+
+.load-more{
+    width: 15%;
+    height: 40px;
+    border: solid 1px;
+    color: #626262;
+    background: transparent;
+    margin: 100px 42%;
+    
+    
+    
+}
+.load-more h3{
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 20px;
+    position: relative;
+    margin: 5px 40px;
+
+}
+    
+footer{
+    background-color: #f0f0f0;
+    padding: 50px;
+
+}
+.footer-content{
+    overflow: hidden;
+    width: 80%;
+    margin: auto;
+
+}
+.terms{
+    width: 25%;
+    float: left;
+
+}
+.terms ul{
+    list-style: none;
+    overflow: hidden;
+    
+}
+.terms ul li{
+    float: left;
+    margin-right: 15px;
+    text-transform: capitalize;
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+
+    
+}
+.sicialicon{
+    width: 25%;
+    float: right;
+    text-align: right;
+   
+
+}
+.sicialicon ul{
+    list-style: none;
+    overflow: hidden;
+    
+
+}
+.sicialicon ul li{
+    float: left;
+    margin-left: 30px;
+    text-transform: capitalize;
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+}
+
+
